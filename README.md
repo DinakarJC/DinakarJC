@@ -16,10 +16,9 @@ Welcome to my GitHub profile! I'm a developer passionate about creating impactfu
 ---
 
 ## 🧩 **Skills**
-- **Languages**: Python, JavaScript
-- **Frameworks**: Django, Flask
+- **Languages**: Python, JavaScript, etc.,
+- **Frameworks**: Django, Flask, etc.,
 - **Tools**: PostgreSQL, psycopg, Git
-- **Other**: CSS styling for instructional text, help images, and navigation structures
 
 
 ---
